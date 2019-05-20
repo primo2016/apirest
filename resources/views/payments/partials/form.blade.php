@@ -1,0 +1,1 @@
+ <payment-form :phone={{ $usuario->username }}></payment-form>
